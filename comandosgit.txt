@@ -1,0 +1,12 @@
+dir (lista todos os diretórios)
+cd nome da pasta (navega na pasta desejada)
+cd .. (volta na pasta anterior)
+cd ~ (volta na raíz)
+Ctrl+L (limpa tudo)
+
+mkdir nome da pasta (cria uma pasta)
+mv nomeantigo nomenovo (renomeia a pasta)
+rmdir nome da pasta (exclui a pasta)
+rm -r (remove a pasta mesmo com arquivos dentro)
+touch nome e tipo do arquivo (cria um arquivo)
+mv ~/caminho antigo ~/caminho novo (move o arquivo para a pasta desejada) 
